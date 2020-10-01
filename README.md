@@ -2,6 +2,7 @@
 
 install termux di playstore
 ketikan :
+
 pkg install git
 
 lalu enter dan tunggu hingga selesai
