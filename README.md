@@ -28,4 +28,5 @@ selesai.
 jika kamu ingin menjalankan ulang, cukup ketik
 
 cd infinite
+
 python2 idbg.py
