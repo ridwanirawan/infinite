@@ -1,7 +1,7 @@
 # cara menggunakan
 
-install termux di playstore
-ketikan :
+install termux di playstore dan jalankan appnya
+di app termux nya ketikan :
 
 pkg install git
 
